@@ -1,6 +1,6 @@
 # Optimization
 
-## Online materials
+## Some materials
 - https://www.youtube.com/c/MichelBierlaire/playlists
 - https://how-to.aimms.com/examples/index.html
 
