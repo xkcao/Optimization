@@ -1,6 +1,7 @@
 # Optimization
 
 ## Some materials
+- https://www.gurobi.com/resources/
 - https://www.youtube.com/c/MichelBierlaire/playlists
 - https://how-to.aimms.com/examples/index.html
 
